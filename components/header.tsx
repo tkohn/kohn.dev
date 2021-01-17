@@ -11,15 +11,15 @@ const Header = (): JSX.Element => {
 
                     <div className="flex">
                         <Link href="/">
-                            <a className="my-1 hover:underline md:mx-4 md:my-0">Blog</a>
+                            <a className="my-1 mx-2 hover:underline">Blog</a>
                         </Link>
 
                         <Link href="/about">
-                            <a className="my-1 hover:underline md:mx-4 md:my-0">About</a>
+                            <a className="my-1 mx-2 hover:underline">About</a>
                         </Link>
 
                         <Link href="/impressum">
-                            <a className="my-1 hover:underline md:mx-4 md:my-0">Impressum</a>
+                            <a className="my-1 mx-2 hover:underline">Impressum</a>
                         </Link>
                     </div>
                 </div>
