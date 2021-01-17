@@ -1,14 +1,14 @@
 module.exports = {
-    purge: ['./components/**/*.tsx', './pages/**/*.tsx'],
-    darkMode: false,
+    future: {
+        removeDeprecatedGapUtilities: true,
+        purgeLayersByDefault: true,
+    },
+    purge: false,
     theme: {
-        listStyleType: {
-            none: 'decimal',
-        },
         extend: {},
     },
-    variants: {
-        extend: {},
-    },
+    variants: {},
     plugins: [require('@tailwindcss/typography')],
 };
+
+//['./components/**/*.tsx', './pages/**/*.tsx']
