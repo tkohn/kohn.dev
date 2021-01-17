@@ -5,12 +5,12 @@ const Header = (): JSX.Element => {
         <header>
             <nav>
                 <div className="flex justify-between items-center">
-                    <Link href="/blog">
+                    <Link href="/">
                         <a className="text-xl font-bold md:text-2xl">kohn.dev</a>
                     </Link>
 
                     <div className="flex">
-                        <Link href="/blog">
+                        <Link href="/">
                             <a className="my-1 hover:underline md:mx-4 md:my-0">Blog</a>
                         </Link>
 
