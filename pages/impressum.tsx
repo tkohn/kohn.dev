@@ -15,7 +15,7 @@ export default function ImpressumPage(): JSX.Element {
                     </p>
 
                     <p>
-                        Telefon: +49 160 93 845 149
+                        Telefon: +49 156 785 786 83
                         <br />
                         E-Mail: torsten+website@kohn.dev
                     </p>
