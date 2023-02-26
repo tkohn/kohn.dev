@@ -9,13 +9,13 @@ export default function ImpressumPage(): JSX.Element {
                     <p>
                         Torsten Kohn
                         <br />
-                        Nymphenburger Str. 49
+                        Fritz-Wendel-Str. 1
                         <br />
-                        80335 München
+                        86159 Augsburg
                     </p>
 
                     <p>
-                        Telefon: +49 156 785 786 83
+                        Telefon: +49 160 93 845 149
                         <br />
                         E-Mail: torsten+website@kohn.dev
                     </p>
@@ -25,9 +25,9 @@ export default function ImpressumPage(): JSX.Element {
                         <br />
                         Torsten Kohn
                         <br />
-                        Nymphenburger Str. 49
+                        Fritz-Wendel-Str. 1
                         <br />
-                        80335 München
+                        86159 Augsburg
                         <br />
                     </p>
 
